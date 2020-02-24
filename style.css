@@ -57,3 +57,9 @@ body{
     border-top: none;
     background-color: white;
 }
+#subscribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
